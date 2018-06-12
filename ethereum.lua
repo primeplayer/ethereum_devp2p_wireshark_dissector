@@ -2,7 +2,7 @@
 -- @brief Ethereum devp2p Protocol dissector plugin
 -- @author bcsec.org
 -- @date 2018.06
--- @version 0.1
+-- @version 0.1.1
 --
 
 -- create a new dissector
